@@ -17,10 +17,10 @@
 
 ## Sources
 - [Bootstrap](https://getbootstrap.com/)
-- [FontAwesome](https://fontawesome.com/)
-- [Google_Fonts](https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
 - [jQuery](https://jquery.com/)
-- [Moment_JS](https://momentjs.com/)
+- [Moment JS](https://momentjs.com/)
+- [CSS Gradient](https://cssgradient.io/)
 
 
 
