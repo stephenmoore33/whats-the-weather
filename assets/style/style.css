@@ -1,9 +1,38 @@
 body {
     font-family: 'Fira Sans', sans-serif;
-    background-color: #fff;
+    background-color: lightgrey;
 }
 
 nav {
     background: rgb(34,193,195);
     background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+/* centers text with id */
+#textCenter {
+    text-align: center;
+}
+
+
+.recent-searches, .search-menu, .search-history-head {
+    color: black;
+    background-color: #ffff;
+}
+
+.btn {
+    background-color: rgba(34,193,195,1);
+    color: black;
+    border: rgba(253,187,45,1);
+}
+
+.btn:hover {
+    background-color: rgba(253,187,45,1);
+    color: #fff;
+    border: rgba(34,193,195,1);
+}
+
+    /* style for todays weather card */
+#todaysWeatherCard {
+    /* border: 1px solid black; */
+    background-color: #fff;
 }
