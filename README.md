@@ -21,7 +21,7 @@
 - [jQuery](https://jquery.com/)
 - [Moment JS](https://momentjs.com/)
 - [CSS Gradient](https://cssgradient.io/)
-
+- [Open Weather API](https://openweathermap.org/api/one-call-api)
 
 
 **Social Links**
